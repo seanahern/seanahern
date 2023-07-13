@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seanahern
 - 👀 I’m interested in user interface development, automation, ecommerce devops
-- 🌱 I’m currently learning fintech automation, test automation, ecommerce operations
+- 🌱 I’m currently learning test automation, ecommerce operations
 - 💞️ I’m looking to collaborate on test automation
 - 📫 How to reach me @seanahern
 
